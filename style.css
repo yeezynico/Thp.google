@@ -157,6 +157,16 @@ span {
 
 /* fin des des buttons*/
 
+.offered{
+    position: absolute;
+    top:55%;
+    left: 43%;
+}
+
+.blue{
+    color: #03469d;
+}
+
 .vide {
     flex-grow: 1;
 }
